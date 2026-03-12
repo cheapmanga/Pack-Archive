@@ -1,7 +1,8 @@
 # Pack-Archive
 Minecraft LCE Pack library  
 Put Your Texture packs / Skin packs here to create a giant library  
-Please put PAcks that work on **Minecraft LCE**
+
+Please put Packs that work on **Minecraft LCE**
 
 
 # Contributing to the Archive
