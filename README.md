@@ -1,5 +1,5 @@
 # Pack-Archive
-Pack library  
+Minecraft LCE Pack library  
 Put Your Texture packs / Skin packs here to create a giant library
 
 
@@ -7,7 +7,7 @@ Put Your Texture packs / Skin packs here to create a giant library
 # Contributing to the Archive
 
 Thank you for helping expand this archive!
-Anyone is welcome to contribute files that help preserve software, documents, media, or other digital content.
+Anyone is welcome to contribute files that help preserve their work.
 
 ## How to Contribute
 
